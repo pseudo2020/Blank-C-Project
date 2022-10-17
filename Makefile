@@ -1,13 +1,3 @@
-# generic_c_makefile v1.0.1
-# Łukasz Dragon <lukasz.b.dragon@gmail.com>
-# This is free software. You may redistribute copies of it under the terms of
-# the GNU General Public License <https://www.gnu.org/licenses/gpl.html>.
-# There is NO WARRANTY, to the extent permitted by law.
-#
-# Template Makefile for C projects that works on *nix and on Windows
-# Although by default it's set to use gcc, you should be able to quickly
-# set it up for any language's compiler.
-#
 # USAGE:
 # make             -> Build executable with CFLAGS_DEBUG.
 # make run         -> Build executable with CFLAGS_DEBUG, then run it.
