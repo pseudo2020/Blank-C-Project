@@ -5,6 +5,6 @@ int main(void);
 
 int
 main(void) {
-	printf("Hello, there... General Kenobi!\n");
+	printf("Hello, world!\n");
 	exit(EXIT_SUCCESS);
 }
